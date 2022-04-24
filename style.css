@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 255, 0);
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 0px;
+}
+
+#timer{
+    font-size: 35px;
+    margin-right: 550px;
+    float:right;
+}
+
+#need_to_draw{
+    font-size: 30px;
+    color: red;
+}
